@@ -1,0 +1,6 @@
+test_clean.py 是调用划分社区的一个实例
+test_pro.py 调用动态规划的一个实例以及相关参数解析
+
+models文件 相关动态规划算法
+methods文件 相关贪心算法
+community文件 将football数据集划分为五个社区后分别调用动态规划算法
