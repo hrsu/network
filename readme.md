@@ -5,4 +5,4 @@ models：动态规划算法
 methods：贪心算法
 community：使用不同数据集调用不同动态规划算法
     algorithm：LFM与Louvain社区划分算法
-    data：社区数据集,小数据集(club,football)和大数据集(wiki,bitcoin,email,facebook)
+    data：社区数据集,小数据集(club,football)和大数据集(wiki,bitcoin,email,facebook).
